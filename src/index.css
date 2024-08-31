@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: mona;
+    src: url(./Fonts/Mona-Sans.ttf);
+  }
+
+  body{
+    overflow: hidden;
+  }
